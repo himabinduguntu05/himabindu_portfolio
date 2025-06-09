@@ -7,7 +7,7 @@ This website showcases my skills, projects, and interests in the world of techno
 
 ## 🌐 Live Portfolio Link
 
-🔗 [Visit My Portfolio](https://your-deployed-portfolio-link.com)
+🔗 [Visit My Portfolio](https://himabinduguntu05.github.io/himabindu_portfolio/)
 
 > Replace with your actual link (e.g., GitHub Pages, Vercel, or Netlify)
 
